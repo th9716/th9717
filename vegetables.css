@@ -1,0 +1,358 @@
+.layout{
+   background:#edf2c5;
+   width: 1260px ;
+   height: 940px;
+   
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   padding: 0px;
+}
+
+.container{
+    width: 940px;
+    height: 880px;
+    padding-left: 160px;
+    padding-right: 160px;
+    
+  }
+.header{
+    display: flex;
+    justify-content:space-between;
+    padding-bottom: 5px;
+    width: 940px; 
+    height: 98px;
+}
+  
+.Vegetables {
+    margin-bottom: 0px;
+    margin-top: 36px;
+    width: 271px;
+    height: 62px;
+    font-family: Arial;
+    font-size: 44px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+}
+
+.btn{
+    width: 200px;
+    height: 62px;
+    margin-bottom: 0px;
+    margin-top: 36px;
+    display: flex;
+    flex-direction:row; 
+}
+
+.btn_facebook {
+    padding: 24px 10px 13px 0px;
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+}
+
+.btn_instagram {
+    padding: 24px 10px 13px 0px;
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+}
+
+.box_line{
+    padding: 15px 10px 12px 0px;
+  
+}
+
+.line{
+    
+    width: 0px;
+    height: 25px;
+    background-color: #778a50;
+}
+
+.btn_LOGIN_box {
+    margin-top: 24px;
+    margin-right: 10px;
+    width: 60px;
+    height: 25px;
+    border: solid 1px #778a50;
+    border-radius: 3px;
+}
+
+.login{
+    padding: 5px 7px;
+     margin: 0px;
+    width: 46px;
+    height: 15px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal; 
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+}
+
+.btn_JOIN_box {
+    border-radius: 3px;
+    margin-top: 24px;
+    width: 49px;
+    height: 25px;
+    border: solid 1px #778a50;
+}
+
+.join {
+    padding: 5px 7px;
+    margin: 0px;
+    width: 35px;
+    height: 15px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+ 
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+} 
+  
+.nav{
+    width: 940px;
+    height: 44px;
+    border-radius: 3px;
+    background-color: #778a50;
+    margin-bottom: 20px;
+     
+}
+
+.nav_list{
+    display: flex;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.Home{
+    padding:10px 30px;  
+    width: 51px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+
+.About-Us{
+    padding:10px 30px; 
+    width: 80px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;  
+}
+
+.Vegetables_2{
+    padding:10px 30px; 
+    width: 98px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+
+.Online{
+    padding:10px 30px; 
+    width: 56px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+  }
+
+  .Contact{
+    padding:10px 30px; 
+    width: 69px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+  }
+
+  .body_box{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;    
+  }
+
+  .box_vegetables{
+    width: 444px; 
+    height: 45px;
+    margin: 0px 52px 0px 0px;
+    border-radius: 3px;
+    background-color: #778a50;
+  }
+
+  .Vegetables_3{    
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 12px;
+    width: 98px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    margin: 0px;
+  }
+
+  .body_box_contact{
+    width: 444px; 
+    height: 45px; 
+    border-radius: 3px;
+    background-color: #778a50;
+  }
+
+  .Contact_2{
+    margin: 0px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 12px;
+    width: 69px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    margin: 0px;
+  }
+  
+  .img_main_pumpkin {
+    width: 940px;
+    height: 448px;
+    object-fit: contain;
+  }
+  .depiction{
+    display: flex;
+    margin-top: 15px;
+    
+  }
+  .picture{
+    display: flex;
+    padding-right: 52px;
+  }
+  .picture_item{
+    padding-right: 12px;
+    width: 140px;
+    height: 140px;
+    object-fit: contain;
+  }
+  .picture_corn{
+    width: 140px;
+    height: 140px;
+    object-fit: contain;
+  }
+  .article{
+    width: 444px;
+    height: 140px;
+    background-color: #f7fbda;
+  }
+  .for{
+    width: 414px;
+    height: 44px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7d7d7d;
+    padding: 15px 15px 0px 15px;
+    margin: 0px;
+  }
+  .end{
+    width: 414px;
+    height: 1px;
+    background-color: #7d7d7d;
+    margin-bottom: 14px;
+  }
+  .email{
+    width: 197px;
+    height: 35px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;  
+    letter-spacing: normal;
+    text-align: left;
+    color: #7d7d7d;
+    padding: 0px 0px 15px 15px;
+    margin: 0px;
+    
+  }
+  .footer{
+    width: 1260px;
+    height: 60px;
+    background-color: #778a50;
+  }
+  .footer_text{
+    width: 301px;
+    height: 14px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    padding: 23px 479px 23px 480px;
+  }
